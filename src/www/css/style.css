@@ -1,0 +1,13 @@
+body{
+background-color:lightgrey;
+}
+.header{
+border: solid 1px black;
+}
+.detail{
+border: solid 1px red;
+}
+
+p{
+border: solid 1px green;
+}
